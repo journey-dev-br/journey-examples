@@ -9,6 +9,7 @@
 
 # URL do site publicado no GitHub Pages:
     https://journey-dev-br.github.io/journey-examples/
+    https://journey-dev-br.github.io/journey-examples/TipsCssA00001
 
 # INSTALAÇÃO INICIAL DO GH-PAGES:
 # ==============================
