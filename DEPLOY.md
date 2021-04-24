@@ -5,7 +5,8 @@
     ngh --branch=gh-pages
 
 
-
+# URL do site em execução no localhost:
+    http://localhost:4200/TipsCssA00001
 
 # URL do site publicado no GitHub Pages:
     https://journey-dev-br.github.io/journey-examples/
